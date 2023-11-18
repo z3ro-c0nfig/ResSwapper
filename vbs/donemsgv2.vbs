@@ -1,0 +1,1 @@
+X=MsgBox("Resolution successfully swapped!",0,"ResSwapper V2")
